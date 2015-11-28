@@ -7,4 +7,3 @@ telepresence:
     - 20064:20064
     - 20065:20065
     - 20066:20066
-  command: telepresence
