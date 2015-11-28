@@ -144,3 +144,5 @@ EXPOSE 20065
 EXPOSE 20066
 
 ADD ./telepresence.cfg /app/telepresence/telepresence.cfg
+
+CMD telepresence
